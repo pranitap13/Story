@@ -1,1 +1,3 @@
 Hi!!! I'm learning Git Version Control! Excited!!!!
+  I'm about to finish learning about Git and Github!
+   Had a great experience learning it!!
